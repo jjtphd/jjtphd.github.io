@@ -5,7 +5,7 @@ title-block-banner: true
 
 ## The problem
 
-Modern instruments and simulations produce data that are large, high-dimensional, and noisy. Much of what a scientist wants from such data depends on knowing what they contain, namely which populations or physical regimes are present and what those imply about the physics. When no labels exist, that question falls to unsupervised learning, which in turn hands the analyst every degree of freedom a label would otherwise have fixed, such as resolutions, neighborhood sizes, cluster counts, and model forms. My work builds methods that let the data make those choices.
+Modern scientific instruments and simulations produce data that are large, high-dimensional, and noisy. Much of what a scientist wants from such data depends on knowing what they contain, namely which populations or physical regimes are present and what those imply about physics. When no labels exist, that question falls to unsupervised learning, which in turn hands an analyst every degree of freedom a label would otherwise have fixed, such as data resolutions, neighborhood sizes, cluster counts, and model forms. My work builds methods that let the data make those choices.
 
 ## Methods that set their own parameters
 
