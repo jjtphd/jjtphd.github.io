@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download the PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joshua J. Taylor",
+    "section": "",
+    "text": "I am a research associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I am also affiliated with CosmicAI, the NSF–Simons AI Institute for Cosmic Origins.\nMy research is in unsupervised learning of scientific data that are large, high-dimensional, and noisy, where no labels exist to guide scientific analysis. I am drawn to this problem because unsupervised learning is the most direct route to discovery. It can surface populations and physical regimes that no one thought to look for, but also brings its own assumptions about what counts as structure. My own methods, built on prototype learning, learned connectivity graphs, and low-dimensional embeddings, are designed to be rooted in as much data evidence as possible.\nI work primarily inside astronomy, specifically parsing the spectral cubes, infrared surveys, and simulations of star-formation astrophysics to learn how gas in molecular clouds assembles into stars. My long-term goal is a general paradigm for physics-informed unsupervised learning."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -33,5 +47,12 @@
     "title": "Research",
     "section": "Where this is going",
     "text": "Where this is going\nPhysics-informed supervised learning now has a settled vocabulary for where physics enters a model. Its unsupervised counterpart does not exist yet. My long-term program is to build it: methods in which physical constraints shape how structure is discovered without foreclosing the discovery of regimes that existing models do not anticipate, with the statistical accounting to say how much of a result the physics decided."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Open-source Python packages behind the methods, each with documentation and tutorials.\nsoumap · GitHub\nSelf-Organizing UMAP: a hybrid SOM/UMAP algorithm that jointly learns data prototypes and their low-dimensional embedding, with multiview clustering (MPEC).\nvqlp · GitHub\nVector quantization under arbitrary Lp metrics, with recall quantities: prototype assignments, quantization error, receptive fields, and the connectivity graph.\ngtsom · GitHub\nGeneral-topology Self-Organizing Maps: SOM training on arbitrary output-space geometries.\nqij\nThe Quantized Infinitesimal Jackknife: variance for estimators without a closed-form influence function.\nNeuralVQ · GitHub\nEarlier neural vector quantization tools, kept for reproducibility of published results."
   }
 ]
