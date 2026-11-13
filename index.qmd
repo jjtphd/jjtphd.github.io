@@ -1,6 +1,6 @@
 ---
 title: "Joshua J. Taylor"
-subtitle: "Statistical machine learning for the physical sciences"
+subtitle: "statistical machine learning for the physical sciences"
 about:
   template: trestles
   image: images/portrait_nrao_tri_blue.jpg
