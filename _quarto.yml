@@ -11,8 +11,6 @@ website:
     left:
       - text: Research
         href: research.qmd
-      - text: Publications
-        href: publications.qmd
       - text: Software
         href: software.qmd
       - text: CV

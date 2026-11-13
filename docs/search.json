@@ -7,11 +7,11 @@
     "text": "Download the PDF"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joshua J. Taylor",
     "section": "",
-    "text": "Selected publications, most with code in the software pages. A complete list is in my CV.\n\n\nMerényi, Erzsébet, and Joshua Taylor. 2017. “SOM-Empowered Graph Segmentation for Fast Automatic Clustering of Large and Complex Data.” 2017 12th International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization (WSOM), 1–9.\n\n\nMerényi, Erzsébet, and Joshua Taylor. 2020. “Empowering Graph Segmentation Methods with SOMs and CONN Similarity for Clustering Large and Complex Data.” Neural Computing and Applications 32 (24): 18161–78.\n\n\nMerényi, Erzsébet, Joshua Taylor, and Andrea Isella. 2016a. “Deep Data: Discovery and Visualization Application to Hyperspectral ALMA Imagery.” Proceedings of the International Astronomical Union 12 (S325): 281–90.\n\n\nMerényi, Erzsébet, Joshua Taylor, and Andrea Isella. 2016b. “Mining Complex Hyperspectral ALMA Cubes for Structure with Neural Machine Learning.” 2016 IEEE Symposium Series on Computational Intelligence (SSCI), 1–9. https://doi.org/10.1109/SSCI.2016.7849952.\n\n\nOffner, Stella S. R., Josh Taylor, and Michael Y. Grudić. 2025. “The Life and Times of Star-Forming Cores: An Analysis of Dense Gas in the STARFORGE Simulations.” The Astrophysical Journal, ahead of print. https://doi.org/10.3847/1538-4357/adb71d.\n\n\nOffner, Stella SR, Josh Taylor, Carleen Markey, et al. 2022. “Turbulence, Coherence, and Collapse: Three Phases for Core Evolution.” Monthly Notices of the Royal Astronomical Society 517 (1): 885–909.\n\n\nTaylor, Josh, and Erzsébet Merényi. 2022a. “Automating t-SNE Parameterization with Prototype-Based Learning of Manifold Connectivity.” Neurocomputing 507: 441–52.\n\n\nTaylor, Josh, and Erzsébet Merényi. 2022b. “DM-Pruning CADJ Graphs for SOM Clustering.” Neural Computing and Applications 34 (1): 25–38.\n\n\nTaylor, Josh, and Stella Offner. 2024a. “A Self-Organizing UMAP for Clustering.” International Workshop on Self-Organizing Maps, Learning Vector Quantization & Beyond, 63–73.\n\n\nTaylor, Josh, and Stella Offner. 2024b. “Setting Vector Quantizer Resolution via Density Estimation Theory.” International Workshop on Self-Organizing Maps, Learning Vector Quantization & Beyond, 107–17.\n\n\nTaylor, Josh, and Stella S. R. Offner. 2026. “Vector Quantization for Uncertainty Quantification: The Quantized Infinitesimal Jackknife.” Intelligent Data Engineering and Automated Learning (IDEAL 2026).\n\n\nTaylor, Josh, Stella S. R. Offner, Rachel Friesen, and Jaime Pineda. 2026. “Clustering Spectral Line Cubes: A Multiview Prototype Approach.” The Astrophysical Journal, ahead of print. https://doi.org/10.3847/1538-4357/ae96a1.\n\n\nTaylor, Josh, and Stella SR Offner. in prep., 2024. Clustering with Random Walks on Multiview Prototype Graphs. in prep., 2024."
+    "text": "I am a statistician at the University of Texas at Austin, where I am a postdoctoral researcher in the Oden Institute for Computational Engineering and Sciences and a research member of CosmicAI, the NSF–Simons AI Institute for Cosmic Origins.\nI build unsupervised learning methods for scientists who face millions of high-dimensional, noisy measurements and want to know what kinds of things are in them before anyone has labeled anything. My methods are built on prototype learning, learned connectivity graphs, and embeddings, and they are designed to set their own governing parameters from the data and to carry evidence about what is signal and what is noise.\nFor the past decade that work has lived inside astronomy: separating the regimes of dense gas in star-forming clouds, tracing the evolutionary phases of the cores that become stars, and building a Bayesian census of young stars from millions of infrared sources. My long-term goal is a general paradigm for physics-informed unsupervised learning."
   },
   {
     "objectID": "research.html",
@@ -47,13 +47,6 @@
     "title": "Research",
     "section": "Where this is going",
     "text": "Where this is going\nPhysics-informed supervised learning now has a settled vocabulary for where physics enters a model. Its unsupervised counterpart does not exist yet. My long-term program is to build it: methods in which physical constraints shape how structure is discovered without foreclosing the discovery of regimes that existing models do not anticipate, with the statistical accounting to say how much of a result the physics decided."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joshua J. Taylor",
-    "section": "",
-    "text": "I am a statistician at the University of Texas at Austin, where I am a postdoctoral researcher in the Oden Institute for Computational Engineering and Sciences and a research member of CosmicAI, the NSF–Simons AI Institute for Cosmic Origins.\nI build unsupervised learning methods for scientists who face millions of high-dimensional, noisy measurements and want to know what kinds of things are in them before anyone has labeled anything. My methods are built on prototype learning, learned connectivity graphs, and embeddings, and they are designed to set their own governing parameters from the data and to carry evidence about what is signal and what is noise.\nFor the past decade that work has lived inside astronomy: separating the regimes of dense gas in star-forming clouds, tracing the evolutionary phases of the cores that become stars, and building a Bayesian census of young stars from millions of infrared sources. My long-term goal is a general paradigm for physics-informed unsupervised learning."
   },
   {
     "objectID": "software.html",
