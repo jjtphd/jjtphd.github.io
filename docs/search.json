@@ -46,7 +46,7 @@
     "href": "research.html#where-this-is-going",
     "title": "Research",
     "section": "Where this is going",
-    "text": "Where this is going\nPhysics-informed supervised learning now has a settled vocabulary for where physics enters a model. Its unsupervised counterpart does not exist yet. My long-term program is to build it: methods in which physical constraints shape how structure is discovered without foreclosing the discovery of regimes that existing models do not anticipate, with the statistical accounting to say how much of a result the physics decided."
+    "text": "Where this is going\nPhysics-informed supervised learning now has a settled vocabulary for where physics enters a model. Its unsupervised counterpart does not exist yet, and building it is my long-term research program. The result would be methods in which physical constraints shape how structure is discovered without foreclosing the discoveries that only unsupervised learning can make. That requires a statistical accounting of how much of a result the physics decided and how much the data did, and that accounting is what I am starting on now."
   },
   {
     "objectID": "software.html",
