@@ -18,7 +18,7 @@ about:
       href: mailto:joshtaylor@utexas.edu
 ---
 
-I am a statistician at the University of Texas at Austin, where I am a postdoctoral researcher in the Oden Institute for Computational Engineering and Sciences and a research member of CosmicAI, the NSF–Simons AI Institute for Cosmic Origins.
+I am a research associate at the [Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu/) at the University of Texas at Austin. I am also affiliated with [CosmicAI](https://www.cosmicai.org/), the NSF–Simons AI Institute for Cosmic Origins.
 
 I build unsupervised learning methods for scientists who face millions of high-dimensional, noisy measurements and want to know what kinds of things are in them before anyone has labeled anything. My methods are built on prototype learning, learned connectivity graphs, and embeddings, and they are designed to set their own governing parameters from the data and to carry evidence about what is signal and what is noise.
 
