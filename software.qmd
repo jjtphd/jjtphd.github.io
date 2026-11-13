@@ -5,17 +5,17 @@ title-block-banner: true
 
 Open-source Python packages behind the methods, each with documentation and tutorials.
 
-**[soumap](https://jjtphd.github.io/soumap/)** · [GitHub](https://github.com/jjtphd/soumap)
+**[soumap](https://jjtphd.github.io/soumap/)** · [GitHub](https://github.com/jjtphd/soumap)\
 Self-Organizing UMAP: a hybrid SOM/UMAP algorithm that jointly learns data prototypes and their low-dimensional embedding, with multiview clustering (MPEC).
 
-**[vqlp](https://jjtphd.github.io/vqlp/)** · [GitHub](https://github.com/jjtphd/vqlp)
+**[vqlp](https://jjtphd.github.io/vqlp/)** · [GitHub](https://github.com/jjtphd/vqlp)\
 Vector quantization under arbitrary L*p* metrics, with recall quantities: prototype assignments, quantization error, receptive fields, and the connectivity graph.
 
-**[gtsom](https://jjtphd.github.io/gtsom/)** · [GitHub](https://github.com/jjtphd/gtsom)
+**[gtsom](https://jjtphd.github.io/gtsom/)** · [GitHub](https://github.com/jjtphd/gtsom)\
 General-topology Self-Organizing Maps: SOM training on arbitrary output-space geometries.
 
-**[qij](https://github.com/jjtphd/qij)**
+**[qij](https://github.com/jjtphd/qij)**\
 The Quantized Infinitesimal Jackknife: variance for estimators without a closed-form influence function.
 
-**[NeuralVQ](https://jjtphd.github.io/NeuralVQ/)** · [GitHub](https://github.com/jjtphd/NeuralVQ)
+**[NeuralVQ](https://jjtphd.github.io/NeuralVQ/)** · [GitHub](https://github.com/jjtphd/NeuralVQ)\
 Earlier neural vector quantization tools, kept for reproducibility of published results.
