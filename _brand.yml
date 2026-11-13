@@ -4,16 +4,16 @@ meta:
 
 color:
   palette:
-    navy: "#1F3A5F"
-    amber: "#E8711A"
-    ink: "#1E2329"
-    paper: "#FFFFFF"
-    mist: "#F3F5F8"
-  foreground: ink
-  background: paper
-  primary: navy
-  secondary: amber
-  link: navy
+    gunmetal: "#293241"
+    blue: "#3D5A80"
+    cerulean: "#98C1D9"
+    lightcyan: "#E0FBFC"
+    sienna: "#EE6C4D"
+  foreground: gunmetal
+  background: lightcyan
+  primary: blue
+  secondary: cerulean
+  link: blue
 
 typography:
   fonts:
@@ -28,8 +28,9 @@ typography:
   headings:
     family: Atkinson Hyperlegible
     weight: 700
+    color: gunmetal
   monospace:
     family: Source Code Pro
   link:
-    color: navy
+    color: blue
     decoration: underline

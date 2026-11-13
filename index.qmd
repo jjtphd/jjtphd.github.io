@@ -3,6 +3,9 @@ title: "Joshua J. Taylor"
 subtitle: "Statistician · unsupervised learning for the physical sciences"
 about:
   template: trestles
+  image: images/portrait_nrao_tri_blue.jpg
+  image-shape: rectangle
+  image-width: 100%
   links:
     - icon: file-earmark-pdf
       text: CV

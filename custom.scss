@@ -1,16 +1,24 @@
 /*-- scss:defaults --*/
-$navy: #1F3A5F;
-$amber: #E8711A;
-$navbar-bg: $navy;
-$navbar-fg: #ffffff;
-$navbar-hl: $amber;
+$gunmetal: #293241;
+$blue: #3D5A80;
+$cerulean: #98C1D9;
+$lightcyan: #E0FBFC;
+$sienna: #EE6C4D;
+$navbar-bg: $gunmetal;
+$navbar-fg: $lightcyan;
+$navbar-hl: $sienna;
+$footer-bg: $gunmetal;
+$footer-fg: $cerulean;
 
 /*-- scss:rules --*/
-.quarto-title-banner { background: $navy; color: #fff; }
-.quarto-title-banner h1 { color: #fff; }
-.quarto-title-banner .subtitle { color: rgba(255,255,255,0.85); }
+.quarto-title-banner { background: $blue; color: $lightcyan; }
+.quarto-title-banner h1 { color: $lightcyan; }
+.quarto-title-banner .subtitle { color: rgba(224,251,252,0.85); }
 .navbar-brand { font-weight: 700; letter-spacing: 0.01em; }
-a:hover { color: $amber; }
-.about-links .about-link { border-color: $navy; }
-.about-links .about-link:hover { background: $navy; color: #fff; }
-.cv-frame { width: 100%; height: 85vh; border: 1px solid #d9dee5; border-radius: 4px; }
+a:hover { color: $sienna; }
+h2 { border-bottom-color: $cerulean; }
+.about-links .about-link { border-color: $blue; color: $blue; }
+.about-links .about-link:hover { background: $blue; color: $lightcyan; }
+.btn-primary { background: $blue; border-color: $blue; }
+.btn-primary:hover { background: $sienna; border-color: $sienna; }
+.cv-frame { width: 100%; height: 85vh; border: 1px solid $cerulean; border-radius: 4px; }
