@@ -20,6 +20,6 @@ about:
 
 I am a research associate at the [Oden Institute for Computational Engineering and Sciences](https://oden.utexas.edu/) at the University of Texas at Austin. I am also affiliated with [CosmicAI](https://www.cosmicai.org/), the NSF–Simons AI Institute for Cosmic Origins.
 
-I build unsupervised learning methods that identify structure in millions of high-dimensional, noisy measurements, namely the populations and physical regimes a data set contains, in settings where no labels exist to guide the search. The methods rest on prototype learning, learned connectivity graphs, and low-dimensional embeddings. They set their own governing parameters from the data, and they report which of the structure they find is signal and which is noise.
+I build unsupervised learning methods that identify structure in large, high-dimensional, noisy data, namely the populations and physical regimes a data set contains, in settings where no labels exist to guide the search. The methods rest on prototype learning, learned connectivity graphs, and low-dimensional embeddings, and they are designed to produce findings that can be defended as evidence rather than as artifacts of the analysis.
 
 For the past decade that work has lived inside astronomy: separating the regimes of dense gas in star-forming clouds, tracing the evolutionary phases of the cores that become stars, and building a Bayesian census of young stars from millions of infrared sources. My long-term goal is a general paradigm for physics-informed unsupervised learning.
