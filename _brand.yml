@@ -9,8 +9,9 @@ color:
     cerulean: "#98C1D9"
     lightcyan: "#E0FBFC"
     sienna: "#EE6C4D"
+    snow: "#F7FCFC"
   foreground: gunmetal
-  background: lightcyan
+  background: snow
   primary: blue
   secondary: cerulean
   link: blue
