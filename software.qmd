@@ -13,9 +13,3 @@ Vector quantization under arbitrary L*p* metrics, with recall quantities: protot
 
 **[gtsom](https://jjtphd.github.io/gtsom/)** · [GitHub](https://github.com/jjtphd/gtsom)\
 General-topology Self-Organizing Maps: SOM training on arbitrary output-space geometries.
-
-**[qij](https://github.com/jjtphd/qij)**\
-The Quantized Infinitesimal Jackknife: variance for estimators without a closed-form influence function.
-
-**[NeuralVQ](https://jjtphd.github.io/NeuralVQ/)** · [GitHub](https://github.com/jjtphd/NeuralVQ)\
-Earlier neural vector quantization tools, kept for reproducibility of published results.
