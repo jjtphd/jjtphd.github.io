@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+$navy: #1F3A5F;
+$amber: #E8711A;
+$navbar-bg: $navy;
+$navbar-fg: #ffffff;
+$navbar-hl: $amber;
+
+/*-- scss:rules --*/
+.quarto-title-banner { background: $navy; color: #fff; }
+.quarto-title-banner h1 { color: #fff; }
+.quarto-title-banner .subtitle { color: rgba(255,255,255,0.85); }
+.navbar-brand { font-weight: 700; letter-spacing: 0.01em; }
+a:hover { color: $amber; }
+.about-links .about-link { border-color: $navy; }
+.about-links .about-link:hover { background: $navy; color: #fff; }
+.cv-frame { width: 100%; height: 85vh; border: 1px solid #d9dee5; border-radius: 4px; }

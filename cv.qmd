@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+title-block-banner: true
+---
+
+[Download the PDF](files/JTaylor_CV.pdf){.btn .btn-primary}
+
+<iframe class="cv-frame" src="files/JTaylor_CV.pdf"></iframe>

@@ -1,0 +1,20 @@
+---
+title: "Research"
+title-block-banner: true
+---
+
+## The problem
+
+Modern instruments and simulations produce millions of high-dimensional, noisy measurements, and the first question a scientist asks of them is what kinds of things they contain. Which populations or physical regimes are present, and what do they imply about the physics? When no labels exist, that question falls to unsupervised learning, and unsupervised learning hands the analyst every degree of freedom a label would otherwise have fixed: resolutions, neighborhood sizes, cluster counts, model forms. My work is about taking those choices away from the analyst and giving them to the data.
+
+## Methods that set their own parameters
+
+I work with neural prototype learning, which compresses a large data set into a small set of representative observations that remain in the units of the data, and with the connectivity graph that can be inferred from those prototypes. Together they act as a meta-learned product that supplies the degrees of freedom an analyst would otherwise have to guess. Along this line I have set vector quantizer resolution from density-estimation efficiency, replaced the manual perplexity of t-SNE with learned manifold connectivity, built a Self-Organizing UMAP in which prototypes and their embedding learn from each other, given graph sparsification a Bayesian stopping rule, and combined all of it in MPEC, a multiview prototype embedding and clustering method for spectral cubes. The Quantized Infinitesimal Jackknife extends the same machinery to uncertainty quantification for prototype-based statistics.
+
+## Science from those methods
+
+In simulations of star-forming clouds, prototype embeddings organized thousands of dense gas cores into three evolutionary phases with no knowledge of their fates, and mapping observed cores into the same space predicted that a substantial fraction of cataloged starless cores will never form stars. In the Green Bank Ammonia Survey, MPEC found spatially coherent gas structures from spectral similarity alone, raised the signal-to-noise of faint emission by pooling, and revealed velocity offsets between molecular species that signal gas falling onto the Orion A filament. In the Spitzer Extended Solar Neighborhood Archive, I am building a fully Bayesian census of young stars in which selection effects and missing photometry are modeled rather than cleaned away.
+
+## Where this is going
+
+Physics-informed supervised learning now has a settled vocabulary for where physics enters a model. Its unsupervised counterpart does not exist yet. My long-term program is to build it: methods in which physical constraints shape how structure is discovered without foreclosing the discovery of regimes that existing models do not anticipate, with the statistical accounting to say how much of a result the physics decided.

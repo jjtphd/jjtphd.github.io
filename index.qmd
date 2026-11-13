@@ -1,0 +1,22 @@
+---
+title: "Joshua J. Taylor"
+subtitle: "Statistician · unsupervised learning for the physical sciences"
+about:
+  template: trestles
+  links:
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/JTaylor_CV.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/jjtphd
+    - icon: envelope
+      text: Email
+      href: mailto:joshtaylor@utexas.edu
+---
+
+I am a statistician at the University of Texas at Austin, where I am a postdoctoral researcher in the Oden Institute for Computational Engineering and Sciences and a research member of CosmicAI, the NSF–Simons AI Institute for Cosmic Origins.
+
+I build unsupervised learning methods for scientists who face millions of high-dimensional, noisy measurements and want to know what kinds of things are in them before anyone has labeled anything. My methods are built on prototype learning, learned connectivity graphs, and embeddings, and they are designed to set their own governing parameters from the data and to carry evidence about what is signal and what is noise.
+
+For the past decade that work has lived inside astronomy: separating the regimes of dense gas in star-forming clouds, tracing the evolutionary phases of the cores that become stars, and building a Bayesian census of young stars from millions of infrared sources. My long-term goal is a general paradigm for physics-informed unsupervised learning.

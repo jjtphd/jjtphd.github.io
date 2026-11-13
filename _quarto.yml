@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Joshua J. Taylor"
+  description: "Statistician building unsupervised learning methods for the physical sciences."
+  site-url: https://jjtphd.github.io
+  repo-url: https://github.com/jjtphd/jjtphd.github.io
+  navbar:
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Software
+        href: software.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/jjtphd
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Joshua J. Taylor"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+    toc: false
+    link-external-newwindow: true

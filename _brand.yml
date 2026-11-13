@@ -1,0 +1,35 @@
+meta:
+  name: Joshua J. Taylor
+  link: https://jjtphd.github.io
+
+color:
+  palette:
+    navy: "#1F3A5F"
+    amber: "#E8711A"
+    ink: "#1E2329"
+    paper: "#FFFFFF"
+    mist: "#F3F5F8"
+  foreground: ink
+  background: paper
+  primary: navy
+  secondary: amber
+  link: navy
+
+typography:
+  fonts:
+    - family: Atkinson Hyperlegible
+      source: google
+    - family: Source Code Pro
+      source: google
+  base:
+    family: Atkinson Hyperlegible
+    size: 17px
+    line-height: 1.6
+  headings:
+    family: Atkinson Hyperlegible
+    weight: 700
+  monospace:
+    family: Source Code Pro
+  link:
+    color: navy
+    decoration: underline
